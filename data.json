@@ -53,12 +53,6 @@
       "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione, pariatur.",
       "price": "170.00",
       "id": 9
-    },
-    {
-      "name": "b",
-      "desc": "b",
-      "price": "c",
-      "id": 10
     }
   ]
 }
